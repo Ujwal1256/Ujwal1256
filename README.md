@@ -14,15 +14,7 @@ Email Me 👉 ✉️ **jakhamateujwal1256@gmail.com** For Collaboration/Project 
 -->
 ## 🔗 I am a Youtube content Creator. 😊😊
 
-## 🌐 Socials:
 
-
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujwal1256)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCcODybi4irFqgsR0WPTKnPA)
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakhamateujwal1256@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -40,6 +32,15 @@ Email Me 👉 ✉️ **jakhamateujwal1256@gmail.com** For Collaboration/Project 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujwal1256)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCcODybi4irFqgsR0WPTKnPA)
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakhamateujwal1256@gmail.com) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ujwal1256&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
