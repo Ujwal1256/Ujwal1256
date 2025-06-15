@@ -1,3 +1,18 @@
+# 💫 Hi 👋, I'm Ujwal
+**A passionate Full Stack Web Developer from India**
+
+Email Me 👉 ✉️ **jakhamateujwal1256@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<!--
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-->
+## 🔗 I am a Youtube content Creator. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujwal1256) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCcODybi4irFqgsR0WPTKnPA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakhamateujwal1256@gmail.com) 
