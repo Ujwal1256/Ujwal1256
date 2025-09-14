@@ -27,6 +27,16 @@ Email Me 👉 ✉️ **jakhamateujwal1256@gmail.com** For Collaboration/Project 
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
+![React JS](https://img.shields.io/badge/React%20JS-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
