@@ -17,25 +17,33 @@ Email Me 👉 ✉️ **jakhamateujwal1256@gmail.com** For Collaboration/Project 
 
 
 # 💻 Tech Stack:
+## 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-
 ![React JS](https://img.shields.io/badge/React%20JS-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
+
+---
+
+## ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=flat&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+---
+
+## 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+
+---
+
+## 🛠️ Tools & Deployment
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 <!-- Snake Game Repo View -->
 
